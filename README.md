@@ -1,6 +1,6 @@
 # 
 <div align="center">
-  <img src="icon.png" alt="StarLuckx Store Logo" width="200" height="200"/>
+  <img src="icon-7.png" alt="StarLuckx Store Logo" width="200" height="200"/>
   
   <h1>🌟 StarLuckx Store 🌟</h1>
   
