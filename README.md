@@ -49,7 +49,7 @@ Esta es una App Store que te permite descargar juegos para computador sin costo,
 
 ## 📥 Descargar
 
-Para poder descargar esta aplicación solo tienes que dar **[Click Aquí](https://github.com/tu-usuario/starluckx-store/releases)** para ir al sitio oficial de descarga.
+Para poder descargar esta aplicación solo tienes que dar **[Click Aquí](https://github.com/Studio-Corporation-Crew/starluckx/releases)** para ir al sitio oficial de descarga.
 
 ---
 
@@ -70,7 +70,7 @@ Para poder descargar esta aplicación solo tienes que dar **[Click Aquí](https:
 - 📧 **Email**: support@starluckxstore.com
 - 💬 **Discord**: [StarLuckx Community](https://discord.gg/starluckx)
 - 🐦 **Twitter**: [@StarLuckxStore](https://twitter.com/starluckxstore)
-- 📖 **Wiki**: [Documentación Completa](https://github.com/tu-usuario/starluckx-store/wiki)
+- 📖 **Wiki**: [Documentación Completa](https://github.com/starluckx-store/wiki)
 
 ---
 
